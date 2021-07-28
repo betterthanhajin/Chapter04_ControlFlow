@@ -11,7 +11,7 @@ public class Test01 {
 	 * 이거를 if한번만써서코딩
 	 */
 		
-		int num = 120;
+//		int num = 120;
 //		if(num > 0) {
 //			if((num%2) == 0) {
 //				System.out.println("양수 이면서 짝수");
